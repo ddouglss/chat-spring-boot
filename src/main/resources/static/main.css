@@ -1,5 +1,5 @@
 body {
-    background-color: #171831;
+    background: radial-gradient(circle, #1a1a2e, #0f0f1f);
     color: white;
     font-family: 'Arial', sans-serif;
 }
